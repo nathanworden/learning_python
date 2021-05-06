@@ -6,3 +6,6 @@ print(2 ** 8)
 
 print('Spam!' * 8)
 print('*'*8)
+
+
+# In Python, using a variable before it has been assigned a value is always an error- otherwise, if names were filled with defaults, some errors might go undetected.
