@@ -5,3 +5,8 @@ title = "The Meaning of Life"
 
 
 doge = "cat"
+
+
+# You can fetch (really, copy) names ouf of a module with from statements:
+# from myfile import title
+
