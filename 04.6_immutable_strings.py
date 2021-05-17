@@ -29,4 +29,4 @@ B.extend(b'eggs')
 print(B)
 
 S = 'Spam'
-print(S)
+print(S.find(''))
