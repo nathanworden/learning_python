@@ -37,3 +37,7 @@ print(doubles)
 print(list(range(10)))
 print()
 print(list(range(-6, 7, 2)))
+
+print()
+
+print([[x ** 2, x ** 3] for x in range(4)])
