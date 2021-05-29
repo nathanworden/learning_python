@@ -12,3 +12,12 @@ print(list(map(sum, M)))
 print('sets and dictionaries')
 
 print({sum(row) for row in M})
+print()
+print(list(map(sum, M)))
+print(map(sum, M))
+
+print()
+
+print({sum(row) for row in M})
+
+print([ord(x) for x in 'spaam'])
